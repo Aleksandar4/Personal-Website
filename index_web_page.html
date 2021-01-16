@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Aleksandar Personal Site</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="The Basics/picture.jpeg" alt="A doggy" width="240" height="240"></td>
+      <td> <h1>Aleksandar Minkov, 15 years old</h1>
+        <p>Future Entrepeneur, Founder of the <a href="https://www.appbrewery.co/">The app Brewery</a> and <strong>Millionare</strong>.</p>
+
+        <p>I am learning Programming currently the complete Web Development Course<br>
+          Also have done a couple of Python projects with Pygame for example Checkers, after completing a Python Course.<br>
+          I am also looking to get into <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwikv6SxgZfuAhVQpYsKHbwuDKEQFjAAegQIAxAC&url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fintro-to-machine-learning--ud120&usg=AOvVaw3e6RyakKggh1xpRzE40WXY">
+            Machine Learning</a> and the math behind it.</p></td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <h3>Aspirations</h3>
+
+  <ul>
+    <li>Making my Family Happy</li>
+    <li>Aspirations to be a programmer and run sucessful businesses</li>
+  </ul>
+
+  <hr>
+
+  <h3>Work Experience</h3>
+
+  <table border="1">
+
+    <tr>
+      <thead>
+      <th>Dates</th>
+      <th>Work</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>2010-2015</td>
+      <td>Software Engineer at Google</td>
+    </tr>
+    <tr>
+      <td>2016-2017</td>
+      <td>Learning how to code and then making personal Businesses</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>Math Proffersor at the University of Harvard</td>
+    </tr>
+      <tbody/>
+
+  </table>
+
+  <hr>
+
+  <h3>Skills</h3>
+
+  <table cellspacing="10">
+
+    <tr>
+      <td>Web Development</td>
+      <td>⭐️⭐</td>
+    </tr>
+
+    <tr>
+      <td>Maths</td>
+      <td>⭐️⭐⭐️⭐⭐</td>
+    </tr>
+
+    <tr>
+      <td>Python Programming</td>
+      <td>⭐️⭐⭐️⭐</td>
+    </tr>
+
+  </table>
+
+  <a href="hobbies.html">My Hobbies</a>
+  <a href="ContactPage.html">Contact Me</a>
+
+<body>
+
+<html>
