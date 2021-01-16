@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Me</title>
+      <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>My Contact Details</h1>
+    <p>My Fictional Address</p>
+    <p>04567389563</p>
+    <p>myemail@gmail.com</p>
 
+    <form class="" action="mailto:aleksminkov62@gmail.com" method="post" enctype="text/plain">
+        <label>Your Name</label>
+        <input type="text" name="yourName" value=""><br>
+        <label>Your Email</label>
+        <input type="email" name="yourEmail" value=""><br>
+        <label>Your Message</label><br>
+        <textarea name="yourMessage" rows="10" cols="30"></textarea><br>
+        <input type="submit" name="">
+    </form>
+
+</body>
+</html>
